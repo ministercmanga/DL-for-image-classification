@@ -1,1 +1,1 @@
-# DL-for-image-classification
+This file contains a Deep learning model for image classification. The dataset was oibtained from Kaggle consist of 4 classes images (COVID-19, Tubercolosis, Pneumonia and Normal), each split into training, test and validation. TestNet50 was used for this classification task.
